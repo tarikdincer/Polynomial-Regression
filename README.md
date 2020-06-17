@@ -12,4 +12,4 @@ Example Dataset.csv Format:
 
 Example Model.txt Format:
 
-a_0*F1^3 + a_1*F_4 + a_p
+a_0 * F1^3 + a_1*F_4 + a_p
